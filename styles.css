@@ -1,3 +1,9 @@
+body{
+    background-color: black;
+}
+
+
 .title{
     text-align: center;
+    text-decoration-color: white;
 }
